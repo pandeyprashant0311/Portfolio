@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.d33f1883.chunk.css",
+    "main.js": "/portfolio/static/js/main.8ddb5064.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8ddb5064.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.978e7f64.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.978e7f64.js.map",
+    "static/js/2.fe61f700.chunk.js": "/portfolio/static/js/2.fe61f700.chunk.js",
+    "static/js/2.fe61f700.chunk.js.map": "/portfolio/static/js/2.fe61f700.chunk.js.map",
+    "static/js/3.cadf1bc0.chunk.js": "/portfolio/static/js/3.cadf1bc0.chunk.js",
+    "static/js/3.cadf1bc0.chunk.js.map": "/portfolio/static/js/3.cadf1bc0.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.d33f1883.chunk.css.map": "/portfolio/static/css/main.d33f1883.chunk.css.map",
+    "static/js/2.fe61f700.chunk.js.LICENSE.txt": "/portfolio/static/js/2.fe61f700.chunk.js.LICENSE.txt",
+    "static/media/bank.6ccf041e.jpg": "/portfolio/static/media/bank.6ccf041e.jpg",
+    "static/media/book.6126c2d9.png": "/portfolio/static/media/book.6126c2d9.png",
+    "static/media/crypto.eaa52173.png": "/portfolio/static/media/crypto.eaa52173.png",
+    "static/media/digital.bee74210.png": "/portfolio/static/media/digital.bee74210.png",
+    "static/media/dsa.8c21ffaa.png": "/portfolio/static/media/dsa.8c21ffaa.png",
+    "static/media/eshopper.cbc558e2.png": "/portfolio/static/media/eshopper.cbc558e2.png",
+    "static/media/geeta.8b3a726c.png": "/portfolio/static/media/geeta.8b3a726c.png",
+    "static/media/hotel.20141a75.jpg": "/portfolio/static/media/hotel.20141a75.jpg",
+    "static/media/logo.93a7003c.jpg": "/portfolio/static/media/logo.93a7003c.jpg",
+    "static/media/nda.795168f3.png": "/portfolio/static/media/nda.795168f3.png",
+    "static/media/photoshop.841141e9.png": "/portfolio/static/media/photoshop.841141e9.png",
+    "static/media/python.png": "/portfolio/static/media/python.3e8a90f5.png",
+    "static/media/ss.5e385448.png": "/portfolio/static/media/ss.5e385448.png",
+    "static/media/times.e84bba1b.png": "/portfolio/static/media/times.e84bba1b.png",
+    "static/media/trail.3b174383.png": "/portfolio/static/media/trail.3b174383.png",
+    "static/media/vov.ca5cecee.png": "/portfolio/static/media/vov.ca5cecee.png",
+    "static/media/weather.ae7c5fa1.jpg": "/portfolio/static/media/weather.ae7c5fa1.jpg",
+    "static/media/web.d3aa4e15.png": "/portfolio/static/media/web.d3aa4e15.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.978e7f64.js",
+    "static/js/2.fe61f700.chunk.js",
+    "static/css/main.d33f1883.chunk.css",
+    "static/js/main.8ddb5064.chunk.js"
+  ]
+}
